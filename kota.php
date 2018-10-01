@@ -15,7 +15,10 @@ $indonesia = Array(
 										'Sigli',
 										'Kutacane',
 										'Singkil',
-										'Subulussalam'
+										'Subulussalam',
+										'Tanmaya',
+										'Bhubaneswar',
+										'Hindu'
 									)),
 		'Sumatera Utara'          => Array('kota' => Array(
 										'Medan',
